@@ -1,0 +1,13 @@
+JS is dynamically typed programming lang                     
+
+let ex1 = 30;                         
+ex1="name" // possible
+console.log(ex1)
+console.log(typeof(ex1))
+
+
+TS is Statically typed programming lang                     
+
+let ex2 = 30;                         
+ex2="name" // Not possible
+console.log(ex2)
